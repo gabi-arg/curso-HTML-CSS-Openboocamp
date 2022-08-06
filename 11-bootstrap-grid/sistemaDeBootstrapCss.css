@@ -1,0 +1,37 @@
+.row {
+    margin: 0.25rem ;
+   
+    
+} 
+
+.colxs {
+    background-color: purple;
+   
+}
+.colsm {
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+.colmd {
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
+.collg {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+}
+.colxl {
+    background-color: orange;
+    display: flex;
+    justify-content: space-between;
+}
+.colxxl {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+ 
+
+}
